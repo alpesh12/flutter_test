@@ -246,6 +246,7 @@ class _EditProfileViewState extends State<EditProfileView> {
                         if ((value ?? '').isEmpty) {
                           return AppStrings.pleaseEnterSkill;
                         }
+                        return null;
                       },
                     ),
                     SizedBox(

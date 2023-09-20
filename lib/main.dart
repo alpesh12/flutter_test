@@ -40,17 +40,5 @@ class MyApp extends StatelessWidget {
         });
       });
     });
-    // return MaterialApp(
-    //   title: 'My Profile',
-    //   theme: ThemeData(
-    //     colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primaryColor),
-    //     useMaterial3: true,
-    //     scaffoldBackgroundColor: AppColors.whiteColor,
-    //     fontFamily: AppFonts.appFontRegular,
-    //     primaryColor: AppColors.primaryColor,
-    //   ),
-    //   debugShowCheckedModeBanner: false,
-    //   home: const LoginPage(),
-    // );
   }
 }

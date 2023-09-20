@@ -8,7 +8,7 @@ After that you need to setup flutter sdk path.
 
 Using Flutter Doctor command you can check setup is properly done or not.
 
-After sucuessfully sdk setup open the flutter project.
+After successfully sdk setup open the flutter project.
 
 'flutter pub get' using this command you can get all the neccessary dependencies.
 
